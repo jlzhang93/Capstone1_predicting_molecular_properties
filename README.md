@@ -1,6 +1,7 @@
 # Capstone1_predicting_molecular_properties
 
 Relevant data is too big to upload; it is downloadable through Kaggle API.
+Necessary library: Pandas, Numpy, scipy, seaborn, matplotlib, glob, xyz2mol sklearn, rdkit, Light GBM.
 
 # 1.	Project Background
 Nuclear Magnetic Resonance (NMR) spectroscopy is an analytical chemistry technique used in quality control and research for determining the content and purity of a sample as well as its molecular structure. It shed light upon determination of molecular conformation in solution as well as study of physical properties at the molecular level such as conformational exchange, phase changes, solubility, and diffusion. 
